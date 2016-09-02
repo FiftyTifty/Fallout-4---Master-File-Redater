@@ -1,0 +1,9 @@
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Fallout 4 - Bethesda Masters Redate.csprojResolveAssemblyReference.cache
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Fallout4BethesdaMastersRedate.Properties.Resources.resources
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Fallout 4 - Bethesda Masters Redate.csproj.GenerateResource.Cache
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Fallout 4 - Bethesda Masters Redate.exe.config
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Fallout 4 - Bethesda Masters Redate.exe
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Fallout 4 - Bethesda Masters Redate.pdb
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Fallout 4 - Bethesda Masters Redate.exe
+c:\users\cjwin7main\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Fallout 4 - Bethesda Masters Redate.pdb
